@@ -1,9 +1,99 @@
 const contributors = [
     {
-        imgSrc: 'images/Sreejith m varma.jpg',
-        title: 'Sreejith M Varma',
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
         description: 'Hey Folks!👋🏻',
-        github: 'https://github.com/SreejithMVarma'
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Hey Folks!👋🏻',
+        github: 'https://github.com/SamJamesJoseph'
+    },
+    {
+        imgSrc: 'images/IMG_20230916_132346.jpg',
+        title: 'SAM JAMES',
+        description: 'Want to goto room',
+        github: 'https://github.com/SamJamesJoseph'
     },
     
 
